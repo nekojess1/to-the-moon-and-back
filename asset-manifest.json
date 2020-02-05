@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/to-the-moon-and-back/static/css/main.120867ed.chunk.css",
+    "main.js": "/to-the-moon-and-back/static/js/main.02bb337d.chunk.js",
+    "main.js.map": "/to-the-moon-and-back/static/js/main.02bb337d.chunk.js.map",
+    "runtime-main.js": "/to-the-moon-and-back/static/js/runtime-main.ca9f3639.js",
+    "runtime-main.js.map": "/to-the-moon-and-back/static/js/runtime-main.ca9f3639.js.map",
+    "static/js/2.84b2b086.chunk.js": "/to-the-moon-and-back/static/js/2.84b2b086.chunk.js",
+    "static/js/2.84b2b086.chunk.js.map": "/to-the-moon-and-back/static/js/2.84b2b086.chunk.js.map",
+    "index.html": "/to-the-moon-and-back/index.html",
+    "precache-manifest.e58e7554562b308aca36e74f4965f53b.js": "/to-the-moon-and-back/precache-manifest.e58e7554562b308aca36e74f4965f53b.js",
+    "service-worker.js": "/to-the-moon-and-back/service-worker.js",
+    "static/css/main.120867ed.chunk.css.map": "/to-the-moon-and-back/static/css/main.120867ed.chunk.css.map",
+    "static/js/2.84b2b086.chunk.js.LICENSE": "/to-the-moon-and-back/static/js/2.84b2b086.chunk.js.LICENSE",
+    "static/media/iloveu.jpg": "/to-the-moon-and-back/static/media/iloveu.6b062d96.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca9f3639.js",
+    "static/js/2.84b2b086.chunk.js",
+    "static/css/main.120867ed.chunk.css",
+    "static/js/main.02bb337d.chunk.js"
+  ]
+}
