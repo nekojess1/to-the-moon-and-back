@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/to-the-moon-and-back/precache-manifest.e58e7554562b308aca36e74f4965f53b.js"
+  "/to-the-moon-and-back/precache-manifest.68bee4ce079277193491d62bd07ddf0e.js"
 );
 
 self.addEventListener('message', (event) => {
